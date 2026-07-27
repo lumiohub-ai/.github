@@ -1,5 +1,5 @@
-# LumioHub.ai
-
-Real-time insights for smarter decisions. LumioHub delivers custom activity and event detection solutions tailored to your operational needs — tell us what to watch for, and we build the intelligence around it.
-
-![LumioHub Banner](./assets/logo-with-text-DarkMode.png)
+# .github
+   
+   This repository configures organization-wide defaults for LumioHub.ai.
+   
+   See [`profile/README.md`](./profile/README.md) for the public organization profile page.
